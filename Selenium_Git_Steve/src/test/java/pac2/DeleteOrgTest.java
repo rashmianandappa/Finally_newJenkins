@@ -9,7 +9,7 @@ public void deleteOrgTest() {
 }
 	@Test
 public void deleteOrgnewTest() {
-	System.out.println("abcdefg");
+	System.out.println("klllllll");
 }
 
 	
