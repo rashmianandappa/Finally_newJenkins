@@ -8,7 +8,7 @@ public void deleteOrgTest() {
 	System.out.println("sdeleflekflkefl");
 }
 	@Test
-public void deleteOrgnewTest() {
+public void deleteOrgnewnewTest() {
 	System.out.println("klllllll");
 }
 
