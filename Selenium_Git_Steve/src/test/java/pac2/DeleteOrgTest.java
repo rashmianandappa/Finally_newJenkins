@@ -7,4 +7,11 @@ public class DeleteOrgTest {
 public void deleteOrgTest() {
 	System.out.println("sdeleflekflkefl");
 }
+	@Test
+public void deleteOrgnewTest() {
+	System.out.println("abcdefg");
+}
+
+	
+	
 }
